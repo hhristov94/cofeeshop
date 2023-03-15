@@ -16,3 +16,5 @@ http://localhost:8000/docs
 **Alternatively** if you have ```poetry``` installed:
 
 ```poetry install```
+```uvicorn main:app --reload ```
+
